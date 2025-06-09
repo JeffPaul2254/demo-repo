@@ -11,4 +11,6 @@ to view history use ls instead of la
 
 ## name
 
-1. my name is jeffrey paulouse
+1. my name is jeffrey paulouse.
+
+2. my age is 21.
